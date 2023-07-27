@@ -1,0 +1,5 @@
+speedtest-cli
+numpy
+pandas
+matplotlib
+psutil
