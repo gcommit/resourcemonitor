@@ -64,6 +64,12 @@ $ gnuplot NETWORK/liveplot.gnu / python3 NETWORK/graph-network.py
 ```
 
 ## Example
+#### Network (live Gnuplot)
+![networkgraph](https://github.com/gcommit/localmonitor/assets/18714033/fce8323b-2cdd-490a-adad-fff3fa504ee7)
+
+#### CPU Usage (live Gnuplot)
+![cpu_usage](https://github.com/gcommit/localmonitor/assets/18714033/bb36e1da-8526-4ef0-9cb3-701571df39f4)
+
 #### Network
 ![networkgraph](https://user-images.githubusercontent.com/18714033/152780777-458d5941-ce2b-4697-be14-fd59a4137370.jpg)
 
